@@ -2,7 +2,7 @@ import { Title } from "@/components/shared/title";
 
 export function Plano() {
   return (
-    <div className={"scrollbar-thin p-2"}>
+    <div className={"p-2·scrollbar-thin"}>
       <Title title={"Plano"} />
 
       <ul className="list-disc pl-4">

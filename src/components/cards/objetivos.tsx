@@ -2,7 +2,7 @@ import { Title } from "@/components/shared/title";
 
 export function Objetivos() {
   return (
-    <div className={"scrollbar-thin p-2"}>
+    <div className={"p-2·scrollbar-thin"}>
       <Title title={"Objetivos"} />
 
       <h2 className="mb-2 mt-4 text-lg font-semibold">Habilidades Técnicas:</h2>
