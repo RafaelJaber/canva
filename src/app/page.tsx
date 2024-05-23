@@ -15,42 +15,42 @@ export default function Home() {
     >
       <div className={"row-span-2 gap-1"}>
         <div className={"grid h-full w-full grid-cols-5 gap-1"}>
-          <div className={"overflow-y-auto rounded border border-violet-500"}>
+          <div className={"overflow-y-auto border border-violet-500 p-2"}>
             <Objetivos />
           </div>
 
           <div className={"grid h-full grid-rows-2"}>
-            <div className={"overflow-y-auto rounded border border-violet-500"}>
+            <div className={"overflow-y-auto border border-violet-500 p-2"}>
               <Experiencia />
             </div>
-            <div className={"overflow-y-auto rounded border border-violet-500"}>
+            <div className={"overflow-y-auto border border-violet-500 p-2"}>
               <Habilidades />
             </div>
           </div>
-          <div className={"overflow-y-auto rounded border border-violet-500"}>
+          <div className={"overflow-y-auto border border-violet-500 p-2"}>
             <Valor />
           </div>
 
           <div className={"grid h-full grid-rows-2"}>
-            <div className={"overflow-y-auto rounded border border-violet-500"}>
+            <div className={"overflow-y-auto border border-violet-500 p-2"}>
               <Network />
             </div>
-            <div className={"overflow-y-auto rounded border border-violet-500"}>
+            <div className={"overflow-y-auto border border-violet-500 p-2"}>
               <Canais />
             </div>
           </div>
 
-          <div className={"overflow-y-auto rounded border border-violet-500"}>
+          <div className={"overflow-y-auto border border-violet-500 p-2"}>
             <Mercado />
           </div>
         </div>
       </div>
       <div className={"row-span-1 mt-1 h-full"}>
         <div className={"grid h-full grid-cols-2 gap-1"}>
-          <div className={"overflow-y-auto rounded border border-violet-500"}>
+          <div className={"overflow-y-auto border border-violet-500 p-2"}>
             <Gaps />
           </div>
-          <div className={"overflow-y-auto rounded border border-violet-500"}>
+          <div className={"overflow-y-auto border border-violet-500 p-2"}>
             <Plano />
           </div>
         </div>

@@ -20,6 +20,7 @@ export function Objetivos() {
         Habilidades Interpessoais:
       </h2>
       <ul className="list-disc pl-4">
+        <li>Comunicação em inglês</li>
         <li>Comunicação Eficaz</li>
         <li>Habilidades de Liderança</li>
         <li>Colaboração em Equipe</li>
